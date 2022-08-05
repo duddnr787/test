@@ -15,7 +15,7 @@ function App() {
   let [좋아요, 좋아요변경] = useState([0, 0, 0]);
   let [modal, setModal] = useState(false);
   let [title, setTitle] = useState(0); //
-  let [입력값, 입력값변경] = useState(''); // 수정했gi
+  let [입력값, 입력값변경] = useState(''); // mmm
 
 
 
